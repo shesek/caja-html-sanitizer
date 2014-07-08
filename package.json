@@ -1,0 +1,13 @@
+{
+  "name": "caja-html-sanitizer",
+  "version": "0.1.1",
+  "description": "Caja HTML sanitizer as nodejs module",
+  "repository": "https://github.com/shesek/caja-html-sanitizer",
+  "keywords": [
+    "html",
+    "santizier",
+    "xss"
+  ],
+  "author": "Nadav Ivgi",
+  "license": "MIT"
+}
